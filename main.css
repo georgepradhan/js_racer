@@ -1,0 +1,15 @@
+.racer_table td {
+  background-color: white;
+  height: 80px; 
+  width: 80px;
+  border: 1px solid black;
+}
+
+#player1_strip .active {
+  background-image: url("https://secure.gravatar.com/avatar/3f6259339e55609367482af31c3ad64f.png");
+}
+
+#player2_strip .active {
+  background-image: url("https://secure.gravatar.com/avatar/7b9ea1792d4db260690fe65da9cdcc1b.png");
+}
+
